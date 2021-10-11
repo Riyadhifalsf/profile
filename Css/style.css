@@ -18,3 +18,14 @@ footer {
 h4 {
     text-align: center;
 }
+
+.ig-thumbnail {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img {
+    width: 100px;
+}
